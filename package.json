@@ -1,0 +1,15 @@
+{
+  "name": "backendmockfour",
+  "version": "1.0.0",
+  "description": "backend_mock_four",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Mandar",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
