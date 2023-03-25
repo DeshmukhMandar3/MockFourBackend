@@ -56,5 +56,6 @@
       "booked": false,
       "id": 5
     }
-  ]
+  ],
+  "movieApp": { "users": [], "moives": [] }
 }
