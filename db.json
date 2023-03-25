@@ -57,5 +57,6 @@
       "id": 5
     }
   ],
-  "movieapp": { "users": [], "moives": [] }
+  "movieapp_users": [],
+  "movieapp_movies": []
 }
